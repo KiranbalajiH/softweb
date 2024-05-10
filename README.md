@@ -1,4 +1,4 @@
-![image](https://github.com/KiranbalajiH/softweb/assets/149135475/6589288e-3c76-419f-81d3-725c39d12b19)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
